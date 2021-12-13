@@ -1,1 +1,1 @@
-![](diagrams/Jenkins Diagram.PNG)
+![](diagrams/Jenkins_Diagram.png)
