@@ -1,8 +1,10 @@
 ![](diagrams/Jenkins_Diagram.png)
 
-
-
-
+## Install Java onto the Jenkins EC2 instance server
+- https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04#installing-specific-versions-of-openjdk
+## Install Jenkins onto the Jenkins EC2 instance server
+- https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+- Jenkins should now be working on the EC2 instance
 ## The execution shell script in Jenkins for the app instance
 ![](Videos/jenkins_app.gif)
 ```
